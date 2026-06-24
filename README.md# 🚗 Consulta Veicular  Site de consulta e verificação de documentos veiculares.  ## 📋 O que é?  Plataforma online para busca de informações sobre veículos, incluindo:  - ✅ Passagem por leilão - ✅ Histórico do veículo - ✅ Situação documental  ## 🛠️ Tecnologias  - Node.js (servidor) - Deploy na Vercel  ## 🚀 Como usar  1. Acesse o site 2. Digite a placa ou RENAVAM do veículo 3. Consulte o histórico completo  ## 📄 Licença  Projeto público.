@@ -1,0 +1,26 @@
+# 🚗 Consulta Veicular
+
+Site de consulta e verificação de documentos veiculares.
+
+## 📋 O que é?
+
+Plataforma online para busca de informações sobre veículos, incluindo:
+
+- ✅ Passagem por leilão
+- ✅ Histórico do veículo
+- ✅ Situação documental
+
+## 🛠️ Tecnologias
+
+- Node.js (servidor)
+- Deploy na Vercel
+
+## 🚀 Como usar
+
+1. Acesse o site
+2. Digite a placa ou RENAVAM do veículo
+3. Consulte o histórico completo
+
+## 📄 Licença
+
+Projeto público.
